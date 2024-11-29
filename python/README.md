@@ -10,7 +10,9 @@
 
 It is best to install using a local package manager, _not_ using pip. This fully isolates the installation from your global python installation.
 
-**MacOS**
+_Linux users should see distro-specific instructions in tool documentation linked above._
+
+**macOS**
 
 ```sh
 brew install uv
@@ -28,6 +30,8 @@ scoop install ruff # Scoop Package Manager
 # Alternatively, use the direct installer
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
+
+_Linux users should see distro-specific instructions in tool documentation linked above._
 
 ## Linting/Formatting: `ruff`
 

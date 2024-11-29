@@ -8,6 +8,20 @@ This repository contains common documentation and configuration for how we use c
 - Save time by reducing errors caused by "it works on my machine"-type issues
 -
 
+## Prerequisites
+
+For Windows and macOS users, it's recommended that you have a command-line package manager installed on your system. All platforms generally include installation instructions based on cli package managers. Recommendations are listed below.
+
+#### macOS
+
+- [Homebrew](https://brew.sh/) (most popular for macOS)
+- [MacPorts](https://www.macports.org/install.php)
+
+#### Windows
+
+- [Winget](https://github.com/microsoft/winget-cli?tab=readme-ov-file#installing-the-client) (Official Microsoft Option)
+- [Scoop](https://github.com/ScoopInstaller/Scoop?tab=readme-ov-file#installation)
+
 ## Language/Platform Support
 
 Support is developed on an as-needed basis for VERSO projects & experimentation.
