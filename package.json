@@ -1,0 +1,11 @@
+{
+  "name": "langtools",
+  "type": "module",
+  "workspaces": [
+    "webdev/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {}
+}
