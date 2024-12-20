@@ -15,7 +15,6 @@ For Windows and macOS users, it's recommended that you have a command-line packa
 #### macOS
 
 - [Homebrew](https://brew.sh/) (most popular for macOS)
-- [MacPorts](https://www.macports.org/install.php)
 
 #### Windows
 
